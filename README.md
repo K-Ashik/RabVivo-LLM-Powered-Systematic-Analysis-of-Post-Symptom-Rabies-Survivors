@@ -3,6 +3,9 @@
 ## Project Overview
 This project analyzes published clinical and immunological data on rare post-symptom rabies survivors using LLM-powered text synthesis and knowledge graph construction.
 
+![Screenshot 2026-03-27 at 10 56 27](https://github.com/user-attachments/assets/e28c66b9-57ca-4bd4-9f6a-8f0ca92c2f61)
+
+
 ## Goal
 Understand why the ~6 known post-symptom rabies survivors survived when post-symptom rabies is otherwise ~100% fatal.
 
@@ -14,7 +17,7 @@ What genetic, immunological, and viral factors distinguish survivors from fatal 
 - **LLM:** Groq Cloud (LLaMA)
 - **Processing:** Python, pandas, spaCy
 - **Dashboard:** Streamlit
-- **Development:** Jupyter Notebooks
+- **Development:** structured loop pipeline
 
 ## Project Phases
 1. Data Collection (PubMed abstracts & case reports)
@@ -33,5 +36,4 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Notebooks: Run analysis in notebooks/ folder
 Dashboard: streamlit run dashboard/app.py
