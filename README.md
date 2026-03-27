@@ -25,6 +25,7 @@ What genetic, immunological, and viral factors distinguish survivors from fatal 
 3. Data Synthesis & Analysis
 4. Hypothesis Generation
 5. Dashboard & Visualization
+<img width="1536" height="1024" alt="RabVivo" src="https://github.com/user-attachments/assets/23872e10-ddb4-4e3a-a0ed-930fa8e95151" />
 
 ## Setup
 ```bash
