@@ -1,0 +1,150 @@
+
+================================================================================
+FULL PAPER EXTRACTION - SUMMARY REPORT
+================================================================================
+
+Papers Analyzed: 5
+Timestamp: 2026-03-27 01:11:04
+
+================================================================================
+PAPERS PROCESSED:
+================================================================================
+
+
+1. 1-s2.0-S1386653215002930-main.pdf (🇬🇧 English)
+   Pages: 6
+   Text Length: 23369 characters
+   Analysis:
+   **1. PATIENT CASES:**
+   - Number of patient cases discussed: 12 (including the present case)
+   - Patient demographics:
+     - Age: 4-17 years (present case: 8 years old)
+     - Gender: Male (present case) and female (other cases)
+     - Exposure type: Dog bites (present case and most other cases), bat exposure (some cases)
+   - Country/region: India (present case and some other cases), Turkey, Brazil, USA, Mexico, Argentina
+   - Survival status: All cases discussed are survivors
+   - Time from symptom onset to outcome: Varies, with the present case being 4.5 years
+   
+   **2. GENETIC FACTORS:**
+   - Any HLA typing mentioned: Not provided in excerpt
+   - Genetic predispositions: Not discussed
+   - Family history: Not mentioned
+   - Specific genetic markers: Not provided in excerpt
+   
+   **3. IMMUNOLOGICAL MARKERS:**
+   - Antibody responses: Not detailed in the excerpt
+   - T-cell responses: Not discussed
+   - Cytokine profiles: Not mentioned
+
+   ... [see detailed extraction] ...
+
+2. 1-s2.0-S0899707115001059-main.pdf (🇬🇧 English)
+   Pages: 4
+   Text Length: 15433 characters
+   Analysis:
+   **1. PATIENT CASES:**
+   - Number of patient cases discussed: 1 (the 8-year-old girl) and references to other cases, including the first survivor of the Milwaukee protocol, a 15-year-old girl.
+   - Patient demographics: The patient was an 8-year-old girl.
+   - Exposure type: The patient recalled being scratched by a feral cat approximately 1 month prior to symptom onset.
+   - Country/region: Not explicitly mentioned, but the medical institutions mentioned are in the United States (University of California Davis Medical Center).
+   - Survival status: Survived.
+   - Time from symptom onset to outcome: The patient was under induced coma and amantadine treatment for a total of 10 days and showed neurological improvement by gradually regaining her movement over the course of the next 2 weeks.
+   
+   **2. GENETIC FACTORS:**
+   - Any HLA typing mentioned: Not provided in excerpt.
+   - Genetic predispositions: Not provided in excerpt.
+   - Family history: Not provided in excerpt.
+   - Specific genetic markers: Not provided in excerpt.
+   
+   **3. IMMUNOLOGICAL MARKERS:**
+   - Antibody responses: The patient was positive for rabies antibody in both serology and cerebrospinal fluid.
+   - T-cell responses: Not provided in excerpt.
+   - Cytokine profiles: Not provided in excerpt.
+   - Vaccine response: Not provided in excerpt, but the patient did not have prior vaccination mentioned.
+   - Prior vaccination status: Not provided in excerpt.
+
+   ... [see detailed extraction] ...
+
+3. cdc_38658_DS1.pdf (🇬🇧 English)
+   Pages: 20
+   Text Length: 15694 characters
+   Analysis:
+   **1. PATIENT CASES:**
+   - Number of patient cases discussed: 2 (the first human rabies survivor without prior vaccination reported in 2005 and a second unvaccinated patient)
+   - Patient demographics: 
+     - Age: 9 years old for the second patient
+     - Gender: Not provided in excerpt
+     - Exposure type: Cat bite for the second patient
+   - Country/region: Colombia for the second patient, Milwaukee (USA) for the first patient
+   - Survival status: The first patient survived, the second patient died accidentally during convalescence
+   - Time from symptom onset to outcome: 76 days for the second patient
+   
+   **2. GENETIC FACTORS:**
+   - Any HLA typing mentioned: Not provided in excerpt
+   - Genetic predispositions: Not provided in excerpt
+   - Family history: Not provided in excerpt
+   - Specific genetic markers: Not provided in excerpt
+   
+   **3. IMMUNOLOGICAL MARKERS:**
+   - Antibody responses: Robust antibody response in serum and cerebrospinal fluid (CSF) for the second patient
+     - Neutralizing antibodies: Detected by the Rapid Fluorescent Focus Inhibition Test (RFFIT)
+     - Titers: Not provided in excerpt
+
+   ... [see detailed extraction] ...
+
+4. nihms766983.pdf (🇬🇧 English)
+   Pages: 24
+   Text Length: 15748 characters
+   Analysis:
+   **1. PATIENT CASES:**
+   - Number of patient cases discussed: 11 patients with laboratory-confirmed rabies, and 25 control patients.
+   - Patient demographics: Not provided in detail for all patients, but one patient mentioned is an immunologically naïve teenager.
+   - Country/region: Patients from various countries including the United States, Peru, Israel, Dominican Republic, and the United Kingdom.
+   - Survival status: 6 survivors (including the first vaccine-naïve survivor in 2004 and 5 additional young survivors) and the rest are nonsurvivors, though exact numbers are not specified in the excerpt.
+   - Time from symptom onset to outcome: Not provided in excerpt.
+   
+   **2. GENETIC FACTORS:**
+   - Any HLA typing mentioned: Not provided in excerpt.
+   - Genetic predispositions: Not mentioned.
+   - Family history: Not mentioned.
+   - Specific genetic markers: Not mentioned.
+   
+   **3. IMMUNOLOGICAL MARKERS:**
+   - Antibody responses: Not detailed in the excerpt.
+   - T-cell responses: Not mentioned.
+   - Cytokine profiles: Not mentioned.
+   - Vaccine response: Mentioned that some survivors had received rabies vaccine prior to developing symptoms.
+   - Prior vaccination status: Some patients had received rabies vaccine prior to symptom onset.
+   
+
+   ... [see detailed extraction] ...
+
+5. 233-262-1-PB.pdf (🇷🇺 Russian)
+   Pages: 7
+   Text Length: 32424 characters
+   Analysis:
+   **1. PATIENT CASES:**
+   - Number of patient cases discussed: 20 cases of convalescence, "partial" convalescence, or long-term survival of humans (1970-2015).
+   - Patient demographics: Children and teenagers predominated (85%).
+   - Country/region: Cases were irregularly spread between continents: Asia (6 cases), North America (6 cases), South America (5 cases), Africa (2 cases), and Europe (1 case). India and the USA were on the top of the list of countries by the number of described cases.
+   - Survival status: 4 patients died within the period from 2 months to 4 years after initial recovery.
+   - Time from symptom onset to outcome: Not provided in excerpt.
+   
+   **2. GENETIC FACTORS:**
+   - Any HLA typing mentioned: Not provided in excerpt.
+   - Genetic predispositions: Not provided in excerpt.
+   - Family history: Not provided in excerpt.
+   - Specific genetic markers: Not provided in excerpt.
+   
+   **3. IMMUNOLOGICAL MARKERS:**
+   - Antibody responses: Serological tests for detection of antibodies to lyssaviruses in cerebrospinal fluid were typically used for diagnostic laboratory verification.
+   - T-cell responses: Not provided in excerpt.
+   - Cytokine profiles: Not provided in excerpt.
+   - Vaccine response: 70% of cases were vaccinated before the disease onset.
+   - Prior vaccination status: 70% of cases were vaccinated, and 10% of cases were treated with gamma globulin before the disease onset.
+   
+
+   ... [see detailed extraction] ...
+
+================================================================================
+All detailed extractions saved to: data/processed/full_paper_extractions_20260327_011104.json

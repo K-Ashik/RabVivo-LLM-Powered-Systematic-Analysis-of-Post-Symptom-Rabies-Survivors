@@ -1,0 +1,156 @@
+
+================================================================================
+RABIES SURVIVOR RESEARCH - PRIORITY PAPER REPORT
+================================================================================
+
+SUMMARY:
+- Total papers analyzed: 80
+- HIGH priority papers: 5
+- MEDIUM priority papers: 43
+- Average relevance score: 5.4/10
+
+================================================================================
+TOP 15 PAPERS BY RELEVANCE SCORE
+================================================================================
+
+
+1. [HIGH PRIORITY] [Сases of human convalescence from rabies and lifetime diagnostics of lyssavirus encephalitis.].
+   PubMed ID: 30893529
+   Relevance Score: 9/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/30893529/
+   Key Finding: 20 cases of convalescence or long-term survival from rabies were identified, with 85% being children...
+
+2. [HIGH PRIORITY] Temporal evolution on MRI of successful treatment of rabies.
+   PubMed ID: 25956434
+   Relevance Score: 9/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/25956434/
+   Key Finding: A patient with paralytic rabies survived after being treated with the Milwaukee protocol...
+
+3. [HIGH PRIORITY] Metabolomics of cerebrospinal fluid from humans treated for rabies.
+   PubMed ID: 23163834
+   Relevance Score: 9/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/23163834/
+   Key Finding: metabolic profile of survivors tracks toward the control profile and away from the rabies profile...
+
+4. [HIGH PRIORITY] Unique clinical and imaging findings in a first ever documented PCR positive rabies survival patient: A case report.
+   PubMed ID: 26305826
+   Relevance Score: 9/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/26305826/
+   Key Finding: A first ever documented PCR positive rabies survival patient...
+
+5. [HIGH PRIORITY] Virology, immunology and pathology of human rabies during treatment.
+   PubMed ID: 25405805
+   Relevance Score: 9/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/25405805/
+   Key Finding: a second unvaccinated patient showed early recovery from rabies...
+
+6. [MEDIUM PRIORITY] Demise of the Milwaukee Protocol for Rabies.
+   PubMed ID: 40139921
+   Relevance Score: 8/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/40139921/
+   Key Finding: The Milwaukee protocol has failed to show efficacy in subsequent cases...
+
+7. [MEDIUM PRIORITY] Adapted Milwaukee protocol for rabies treatment in a Brazilian indigenous child: case report.
+   PubMed ID: 39456043
+   Relevance Score: 8/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/39456043/
+   Key Finding: Successful treatment of a rabies patient using the adapted Milwaukee Protocol...
+
+8. [MEDIUM PRIORITY] Immunological impact of tetrahydrobiopterin on the central nervous system in a murine model of rabies virus infection.
+   PubMed ID: 33852711
+   Relevance Score: 8/10
+   Survivor Focused: NO
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/33852711/
+   Key Finding: biopterin modulates inflammatory mechanisms in a rabies virus infection...
+
+9. [MEDIUM PRIORITY] Pregnant woman from southern Peru with rabies infection who delivered a healthy baby.
+   PubMed ID: 33446075
+   Relevance Score: 8/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/33446075/
+   Key Finding: A pregnant woman with rabies survived 19 months after symptom onset with severe neurological sequela...
+
+10. [MEDIUM PRIORITY] Survival in human rabies but left against medical advice and death followed - Community education is the need of the hour.
+   PubMed ID: 32509681
+   Relevance Score: 8/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/32509681/
+   Key Finding: patient survived 15 days with aggressive treatment approach despite developing rabies symptoms...
+
+11. [MEDIUM PRIORITY] Caring for a patient with rabies: implications of the Milwaukee protocol for infection control and public health measures.
+   PubMed ID: 28559126
+   Relevance Score: 8/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/28559126/
+   Key Finding: The Milwaukee protocol has been associated with five reported human rabies survivors...
+
+12. [MEDIUM PRIORITY] In vitro and in vivo inhibition of rabies virus replication by RNA interference.
+   PubMed ID: 24516427
+   Relevance Score: 8/10
+   Survivor Focused: NO
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/24516427/
+   Key Finding: Intracerebral administration of siRNAs resulted in a 30% survival rate in mice...
+
+13. [MEDIUM PRIORITY] Current and future approaches to the therapy of human rabies.
+   PubMed ID: 23369672
+   Relevance Score: 8/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/23369672/
+   Key Finding: survival might be improved in patients with less virulent strains and a brisk immune response...
+
+14. [MEDIUM PRIORITY] Failure of the Milwaukee protocol in a child with rabies.
+   PubMed ID: 21865193
+   Relevance Score: 8/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/21865193/
+   Key Finding: Failure of the Milwaukee protocol in a child with rabies...
+
+15. [MEDIUM PRIORITY] Rabies in the critical care unit: diagnostic and therapeutic approaches.
+   PubMed ID: 21856570
+   Relevance Score: 8/10
+   Survivor Focused: YES
+   Get Full Paper: YES
+   URL: https://pubmed.ncbi.nlm.nih.gov/21856570/
+   Key Finding: most survivors received rabies vaccine prior to the onset of illness...
+
+
+================================================================================
+HIGH PRIORITY PAPERS (MUST READ)
+================================================================================
+
+1. [Сases of human convalescence from rabies and lifetime diagnostics of lyssavirus encephalitis.].
+   URL: https://pubmed.ncbi.nlm.nih.gov/30893529/
+
+2. Temporal evolution on MRI of successful treatment of rabies.
+   URL: https://pubmed.ncbi.nlm.nih.gov/25956434/
+
+3. Metabolomics of cerebrospinal fluid from humans treated for rabies.
+   URL: https://pubmed.ncbi.nlm.nih.gov/23163834/
+
+4. Unique clinical and imaging findings in a first ever documented PCR positive rabies survival patient: A case report.
+   URL: https://pubmed.ncbi.nlm.nih.gov/26305826/
+
+5. Virology, immunology and pathology of human rabies during treatment.
+   URL: https://pubmed.ncbi.nlm.nih.gov/25405805/
+

@@ -1,0 +1,1616 @@
+[
+  {
+    "pubmed_id": "41474528",
+    "title": "Reply to Willoughby on Demise of the Milwaukee Protocol for Rabies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41474528/",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 7,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee Protocol",
+      "critical_gaps": "Lack of abstract information",
+      "key_findings": "Not mentioned",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 686
+  },
+  {
+    "pubmed_id": "40139921",
+    "title": "Demise of the Milwaukee Protocol for Rabies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40139921/",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "critical care, therapeutic (induced) coma, ketamine, ribavirin, amantadine",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee protocol (therapeutic coma, ketamine, ribavirin, amantadine), critical care",
+      "critical_gaps": "details of the protocol changes over time, specific reasons for the failure of the Milwaukee protocol",
+      "key_findings": "The Milwaukee protocol has failed to show efficacy in subsequent cases",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 932
+  },
+  {
+    "pubmed_id": "39922333",
+    "title": "Rabies in humans: A treatment approach.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39922333/",
+    "journal": "Travel medicine and infectious disease",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "factors associated with survival",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "experimental treatments",
+      "critical_gaps": "details on treatment protocols and factors associated with survival",
+      "key_findings": "most patients, including the two described, do not survive despite treatment",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 765
+  },
+  {
+    "pubmed_id": "39456043",
+    "title": "Adapted Milwaukee protocol for rabies treatment in a Brazilian indigenous child: case report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39456043/",
+    "journal": "Virology journal",
+    "pub_date": "2024",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "treatment",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Adapted Milwaukee Protocol",
+      "critical_gaps": "Details of treatment outcome and patient's response",
+      "key_findings": "Successful treatment of a rabies patient using the adapted Milwaukee Protocol",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 729
+  },
+  {
+    "pubmed_id": "37620861",
+    "title": "Rabies outbreak in Brazil: first case series in children from an indigenous village.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37620861/",
+    "journal": "Infectious diseases of poverty",
+    "pub_date": "2023",
+    "extraction": {
+      "relevance_score": 3,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "Details about the outbreak, transmission, and affected population",
+      "key_findings": "Rabies outbreak in an indigenous village in southeastern Brazil",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 743
+  },
+  {
+    "pubmed_id": "34978979",
+    "title": "[Human Rabies: Optimization of Prevention and Paths Towards the Cure].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34978979/",
+    "journal": "Acta medica portuguesa",
+    "pub_date": "2021",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Prevention, immunoglobulin",
+      "critical_gaps": "Details on curative therapy, development of an effective cure",
+      "key_findings": "Rabies has no approved curative therapy",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 796
+  },
+  {
+    "pubmed_id": "33852711",
+    "title": "Immunological impact of tetrahydrobiopterin on the central nervous system in a murine model of rabies virus infection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33852711/",
+    "journal": "Revista do Instituto de Medicina Tropical de Sao Paulo",
+    "pub_date": "2021",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "NO",
+      "survival_factors": "inflammatory mechanisms, permeability of the blood-brain barrier, migration of cytotoxic cells",
+      "immunological_insights": "modulation of inflammatory mechanisms, effect on Anti-RABV, IL-6, IL-2, IL-17a, INF-gamma and Anti-iNOS",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "sapropterin (biopterin), Milwaukee protocol",
+      "critical_gaps": "effect of biopterin on survival rates, detailed immune mechanism involved in the evolution of the disease",
+      "key_findings": "biopterin modulates inflammatory mechanisms in a rabies virus infection",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 967
+  },
+  {
+    "pubmed_id": "33598230",
+    "title": "Antemortem diagnosis of human rabies: A case report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33598230/",
+    "journal": "Clinical case reports",
+    "pub_date": "2021",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "The Milwaukee Protocol",
+      "critical_gaps": "Effectiveness of the Milwaukee Protocol, details on antemortem diagnosis",
+      "key_findings": "No effective treatment exists so far",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 735
+  },
+  {
+    "pubmed_id": "33446075",
+    "title": "Pregnant woman from southern Peru with rabies infection who delivered a healthy baby.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33446075/",
+    "journal": "Tropical doctor",
+    "pub_date": "2021",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "Pregnancy, emergency Cesarean section, Milwaukee protocol",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee protocol, emergency Cesarean section, intensive care",
+      "critical_gaps": "Details of the Milwaukee protocol implementation, patient's initial symptoms and treatment before ICU admission",
+      "key_findings": "A pregnant woman with rabies survived 19 months after symptom onset with severe neurological sequelae",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 839
+  },
+  {
+    "pubmed_id": "33174958",
+    "title": "Comparing clinical protocols for the treatment of human rabies: the Milwaukee protocol and the Brazilian protocol (Recife).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33174958/",
+    "journal": "Revista da Sociedade Brasileira de Medicina Tropical",
+    "pub_date": "2020",
+    "extraction": {
+      "relevance_score": 7,
+      "is_survivor_focused": "NO",
+      "survival_factors": "treatment, antiviral activity",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee Protocol, Recife Protocol, supportive therapy",
+      "critical_gaps": "differences between Milwaukee and Recife Protocols, clinical management outcomes",
+      "key_findings": "Comparison of Milwaukee and Recife Protocols for treating human rabies",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 805
+  },
+  {
+    "pubmed_id": "33110879",
+    "title": "Death from rabies: The reason being poor compliance to vaccination or it's failure.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33110879/",
+    "journal": "Journal of family medicine and primary care",
+    "pub_date": "2020",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": [
+        "administration of rabies immunoglobulin",
+        "vaccine effectiveness"
+      ],
+      "immunological_insights": "role of rabies immunoglobulin and vaccine in preventing rabies",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": [
+        "vaccination",
+        "rabies immunoglobulin administration",
+        "modified Milwaukee protocol"
+      ],
+      "critical_gaps": "effectiveness of modified Milwaukee protocol, importance of rabies immunoglobulin",
+      "key_findings": "lack of administration of rabies immunoglobulin or failure of vaccines may be the reason for deaths",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 986
+  },
+  {
+    "pubmed_id": "32509681",
+    "title": "Survival in human rabies but left against medical advice and death followed - Community education is the need of the hour.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32509681/",
+    "journal": "Journal of family medicine and primary care",
+    "pub_date": "2020",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "aggressive treatment approach, postexposure vaccine prophylaxis, rabies immunoglobulin",
+      "immunological_insights": "rising titer of virus-neutralizing antibodies in serum and cerebrospinal fluid",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "modified Milwaukee protocol, anti-rabies vaccinations, postexposure prophylaxis",
+      "critical_gaps": "details on patient's condition after leaving against medical advice, long-term survival outcomes",
+      "key_findings": "patient survived 15 days with aggressive treatment approach despite developing rabies symptoms",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1018
+  },
+  {
+    "pubmed_id": "31430537",
+    "title": "First confirmed case of local human rabies in Saudi Arabia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31430537/",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "pub_date": "2019",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not explicitly mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee protocol",
+      "critical_gaps": "Details on patient's treatment outcome, viral strain, and potential survival factors",
+      "key_findings": "First confirmed case of local human rabies in Saudi Arabia with a fatal outcome",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 848
+  },
+  {
+    "pubmed_id": "30893529",
+    "title": "[\u0421ases of human convalescence from rabies and lifetime diagnostics of lyssavirus encephalitis.].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30893529/",
+    "journal": "Voprosy virusologii",
+    "pub_date": "2019",
+    "extraction": {
+      "relevance_score": 9,
+      "is_survivor_focused": "YES",
+      "survival_factors": "age (children and teenagers), vaccination, gamma globulin treatment, experimental treatment protocols",
+      "immunological_insights": "serological tests for detection of antibodies to lyssaviruses",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "vaccination, gamma globulin, experimental protocols (including Milwaukee protocol)",
+      "critical_gaps": "details on experimental treatment protocols, long-term outcomes of survivors",
+      "key_findings": "20 cases of convalescence or long-term survival from rabies were identified, with 85% being children and teenagers",
+      "priority_level": "HIGH",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1098
+  },
+  {
+    "pubmed_id": "28559126",
+    "title": "Caring for a patient with rabies: implications of the Milwaukee protocol for infection control and public health measures.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28559126/",
+    "journal": "The Journal of hospital infection",
+    "pub_date": "2017",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "The Milwaukee protocol",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "The Milwaukee protocol",
+      "critical_gaps": "Details on the implementation and effectiveness of the Milwaukee protocol",
+      "key_findings": "The Milwaukee protocol has been associated with five reported human rabies survivors",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 799
+  },
+  {
+    "pubmed_id": "27730539",
+    "title": "Human Rabies: a 2016 Update.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27730539/",
+    "journal": "Current infectious disease reports",
+    "pub_date": "2016",
+    "extraction": {
+      "relevance_score": 4,
+      "is_survivor_focused": "NO",
+      "survival_factors": "rare survivors, novel therapeutic approaches",
+      "immunological_insights": "detection of neutralizing anti-rabies virus antibodies",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "wound cleansing, administration of rabies vaccine and rabies immune globulin, Milwaukee protocol (deemed ineffective)",
+      "critical_gaps": "mechanisms underlying the disease, novel therapeutic approaches",
+      "key_findings": "Rabies is virtually always fatal after clinical disease develops",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 907
+  },
+  {
+    "pubmed_id": "26639059",
+    "title": "Critical Appraisal of the Milwaukee Protocol for Rabies: This Failed Approach Should Be Abandoned.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26639059/",
+    "journal": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+    "pub_date": "2016",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Therapeutic coma, ketamine infusion, amantadine, and the screening/prophylaxis/management of cerebral vasospasm",
+      "critical_gaps": "Lack of scientific evidence supporting the Milwaukee protocol's therapeutic measures",
+      "key_findings": "The Milwaukee protocol's recommended therapies cannot be substantiated in rabies or other forms of acute viral encephalitis",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 891
+  },
+  {
+    "pubmed_id": "25970115",
+    "title": "The \"Milwaukee protocol\" for treatment of human rabies is no longer valid.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25970115/",
+    "journal": "The Pediatric infectious disease journal",
+    "pub_date": "2015",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "treatment",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee protocol",
+      "critical_gaps": "Effectiveness and validity of the Milwaukee protocol",
+      "key_findings": "The Milwaukee protocol is no longer valid",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 695
+  },
+  {
+    "pubmed_id": "25956434",
+    "title": "Temporal evolution on MRI of successful treatment of rabies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25956434/",
+    "journal": "Clinical imaging",
+    "pub_date": "2015",
+    "extraction": {
+      "relevance_score": 9,
+      "is_survivor_focused": "YES",
+      "survival_factors": "treatment",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee protocol",
+      "critical_gaps": "Details of the treatment outcome and MRI findings",
+      "key_findings": "A patient with paralytic rabies survived after being treated with the Milwaukee protocol",
+      "priority_level": "HIGH",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 801
+  },
+  {
+    "pubmed_id": "25156675",
+    "title": "Antiviral therapy for human rabies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25156675/",
+    "journal": "Antiviral therapy",
+    "pub_date": "2015",
+    "extraction": {
+      "relevance_score": 7,
+      "is_survivor_focused": "NO",
+      "survival_factors": "prior vaccination",
+      "immunological_insights": "immunotherapy",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "antiviral therapy, immunotherapy, neuroprotective therapy, ribavirin, interferon-\u03b1, favipiravir, RNA interference",
+      "critical_gaps": "effectiveness of new antiviral agents, details on drug delivery to the central nervous system",
+      "key_findings": "Most survivors received one or more doses of rabies vaccine prior to the onset of the disease",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1011
+  },
+  {
+    "pubmed_id": "24708671",
+    "title": "Diagnosis, management and post-mortem findings of a human case of rabies imported into the United Kingdom from India: a case report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24708671/",
+    "journal": "Virology journal",
+    "pub_date": "2014",
+    "extraction": {
+      "relevance_score": 7,
+      "is_survivor_focused": "NO",
+      "survival_factors": "intensive care management, molecular diagnostics",
+      "immunological_insights": "pathophysiological responses",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee Protocol",
+      "critical_gaps": "details on pathophysiological responses and molecular diagnostics",
+      "key_findings": "limited success of Milwaukee Protocol in improving survival",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 790
+  },
+  {
+    "pubmed_id": "24516427",
+    "title": "In vitro and in vivo inhibition of rabies virus replication by RNA interference.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24516427/",
+    "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+    "pub_date": "2013",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "NO",
+      "survival_factors": "RNA interference, antiviral therapy",
+      "immunological_insights": "Not explicitly discussed",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee Protocol, RNA interference using siRNAs, antiviral therapy",
+      "critical_gaps": "Mechanisms of RNA interference in vivo, long-term effects of treatment",
+      "key_findings": "Intracerebral administration of siRNAs resulted in a 30% survival rate in mice",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1093
+  },
+  {
+    "pubmed_id": "23369672",
+    "title": "Current and future approaches to the therapy of human rabies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23369672/",
+    "journal": "Antiviral research",
+    "pub_date": "2013",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "viral strain, prophylactic rabies vaccine, brisk immune response",
+      "immunological_insights": "anti-rabies virus antibodies",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "vaccine, anti-rabies immunoglobulin, antiviral drugs, ketamine, therapeutic coma",
+      "critical_gaps": "why the Milwaukee Protocol failed in subsequent cases, details on animal models",
+      "key_findings": "survival might be improved in patients with less virulent strains and a brisk immune response",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1030
+  },
+  {
+    "pubmed_id": "23163834",
+    "title": "Metabolomics of cerebrospinal fluid from humans treated for rabies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23163834/",
+    "journal": "Journal of proteome research",
+    "pub_date": "2013",
+    "extraction": {
+      "relevance_score": 9,
+      "is_survivor_focused": "YES",
+      "survival_factors": "metabolites related to energy metabolism and cell volume control",
+      "immunological_insights": "immunologically na\u00efve teenager survived",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee Protocol (MP), supportive care",
+      "critical_gaps": "details on the metabolic profile trajectory, specific metabolites involved",
+      "key_findings": "metabolic profile of survivors tracks toward the control profile and away from the rabies profile",
+      "priority_level": "HIGH",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 967
+  },
+  {
+    "pubmed_id": "22490309",
+    "title": "Fatal case of imported human rabies in Amadora, Portugal, August 2011.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22490309/",
+    "journal": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
+    "pub_date": "2012",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Treatment following the Milwaukee protocol",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee protocol",
+      "critical_gaps": "Details on why the treatment was not effective",
+      "key_findings": "The patient died despite treatment following the Milwaukee protocol",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 788
+  },
+  {
+    "pubmed_id": "21865193",
+    "title": "Failure of the Milwaukee protocol in a child with rabies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21865193/",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "pub_date": "2011",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "novel therapy, therapeutic protocol",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee protocol",
+      "critical_gaps": "Details of the therapeutic protocol, reasons for failure",
+      "key_findings": "Failure of the Milwaukee protocol in a child with rabies",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 768
+  },
+  {
+    "pubmed_id": "21856570",
+    "title": "Rabies in the critical care unit: diagnostic and therapeutic approaches.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21856570/",
+    "journal": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+    "pub_date": "2011",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "prior rabies vaccination",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "therapeutic coma (midazolam and phenobarbital), ketamine, and antiviral therapies (Milwaukee Protocol)",
+      "critical_gaps": "effectiveness of the Milwaukee Protocol, details on the rare survivors",
+      "key_findings": "most survivors received rabies vaccine prior to the onset of illness",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 922
+  },
+  {
+    "pubmed_id": "30881178",
+    "title": "Update on rabies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30881178/",
+    "journal": "Research and reports in tropical medicine",
+    "pub_date": "2011",
+    "extraction": {
+      "relevance_score": 7,
+      "is_survivor_focused": "NO",
+      "survival_factors": "rare survivors, therapeutic approaches",
+      "immunological_insights": "human rabies immune globulin",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "therapeutic coma (midazolam and phenobarbital), ketamine, antiviral therapies (Milwaukee protocol), wound cleansing, rabies vaccine",
+      "critical_gaps": "mechanisms involved in rabies pathogenesis, effectiveness of therapeutic approaches",
+      "key_findings": "rare survivors of human rabies, no effective therapy is presently available",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1110
+  },
+  {
+    "pubmed_id": "20881935",
+    "title": "Human rabies---Virginia, 2009.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20881935/",
+    "journal": "MMWR. Morbidity and mortality weekly report",
+    "pub_date": "2010",
+    "extraction": {
+      "relevance_score": 4,
+      "is_survivor_focused": "NO",
+      "survival_factors": "None mentioned",
+      "immunological_insights": "None discussed",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee protocol",
+      "critical_gaps": "Details on patient's treatment outcome, effectiveness of Milwaukee protocol",
+      "key_findings": "Patient died despite treatment, highlighting the importance of prompt postexposure prophylaxis",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 978
+  },
+  {
+    "pubmed_id": "20513093",
+    "title": "Immunovirological correlates in human rabies treated with therapeutic coma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20513093/",
+    "journal": "Journal of medical virology",
+    "pub_date": "2010",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "treatment approach (Milwaukee protocol), immunological response (rabies antibody in serum and cerebrospinal fluid)",
+      "immunological_insights": "rabies antibody demonstrated in serum and cerebrospinal fluid",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Milwaukee protocol (therapeutic coma)",
+      "critical_gaps": "effectiveness of the Milwaukee protocol, details of the patient's immunological response",
+      "key_findings": "rabies virus was isolated from CSF and saliva despite treatment",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 913
+  },
+  {
+    "pubmed_id": "41748433",
+    "title": "An Open-Source Restraint System for Magnetic Resonance Imaging in Awake Rats.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41748433/",
+    "journal": "eNeuro",
+    "pub_date": "2026",
+    "extraction": {
+      "relevance_score": 1,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "The entire context of rabies and its relation to the paper is missing",
+      "key_findings": "None related to rabies survivors",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 1042
+  },
+  {
+    "pubmed_id": "41659957",
+    "title": "Changes in feral dog populations during the COVID-19 pandemic in Arequipa, Peru.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41659957/",
+    "journal": "Frontiers in veterinary science",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 2,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "Mechanisms of rabies transmission and survival in feral dog populations",
+      "key_findings": "Feral dogs in Arequipa, Peru, pose a threat for dog-mediated human rabies",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 836
+  },
+  {
+    "pubmed_id": "41631032",
+    "title": "A Case Series of Bear Attacks from a Tertiary Center in South India.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41631032/",
+    "journal": "Journal of plastic and reconstructive surgery",
+    "pub_date": "2026",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "YES",
+      "survival_factors": "early debridement, primary closure of wounds, early skin grafting, appropriate anti-rabies prophylaxis",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "early debridement, primary closure of wounds, early skin grafting, anti-rabies prophylaxis",
+      "critical_gaps": "Details on patient outcomes, specifics of anti-rabies prophylaxis used",
+      "key_findings": "Importance of early treatment for survival",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 890
+  },
+  {
+    "pubmed_id": "41576704",
+    "title": "Effectiveness of rabies immunoglobulins and monoclonal antibodies infiltrated into animal bite wounds after dilution: Real-world evidence from an anti-rabies clinic in India.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41576704/",
+    "journal": "Vaccine",
+    "pub_date": "2026",
+    "extraction": {
+      "relevance_score": 6,
+      "is_survivor_focused": "NO",
+      "survival_factors": "treatment, possibly immunological",
+      "immunological_insights": "use of rabies immunoglobulins (RIG) and rabies monoclonal antibodies (RmAbs)",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "infiltration of category III bite wounds and category II wounds in immunocompromised individuals with RIG",
+      "critical_gaps": "effectiveness of different dilution practices and outcomes following full-dose infiltration",
+      "key_findings": "importance of dilution with sterile normal saline for adequate wound infiltration",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 872
+  },
+  {
+    "pubmed_id": "41538369",
+    "title": "Human Rabies Deaths - Minnesota and California, 2024.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41538369/",
+    "journal": "MMWR. Morbidity and mortality weekly report",
+    "pub_date": "2026",
+    "extraction": {
+      "relevance_score": 2,
+      "is_survivor_focused": "NO",
+      "survival_factors": "None mentioned",
+      "immunological_insights": "None discussed",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Rabies postexposure prophylaxis (PEP)",
+      "critical_gaps": "Details on the patients' symptoms, treatment outcomes, and the effectiveness of PEP in these cases",
+      "key_findings": "Two human rabies deaths in 2024 due to lack of PEP after bat encounters",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 1001
+  },
+  {
+    "pubmed_id": "41492299",
+    "title": "Rabies outbreak in Lefeisa town, Somali region, Ethiopia: A report on epidemiological trends and one health implications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41492299/",
+    "journal": "One health (Amsterdam, Netherlands)",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 2,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "Entire abstract is missing, making it impossible to determine the content",
+      "key_findings": "Not mentioned",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 700
+  },
+  {
+    "pubmed_id": "41487745",
+    "title": "In-Use Stability and Functional Efficacy of a Monoclonal Antibody Cocktail (TwinRab\u2122) for Rabies Post-exposure Prophylaxis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41487745/",
+    "journal": "Cureus",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 7,
+      "is_survivor_focused": "NO",
+      "survival_factors": [
+        "treatment timing",
+        "viral strain",
+        "antibody potency"
+      ],
+      "immunological_insights": "neutralizing potency of monoclonal antibodies",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": [
+        "monoclonal antibody cocktail (TwinRab\u2122)",
+        "human rabies immunoglobulins (RIGs)"
+      ],
+      "critical_gaps": "specific details on survival outcomes in humans, comparison with existing treatments",
+      "key_findings": "TwinRab\u2122 achieves 90% survival when administered six hours post-challenge",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1206
+  },
+  {
+    "pubmed_id": "41487407",
+    "title": "Rabies post-exposure prophylaxis in India: a SWOT analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41487407/",
+    "journal": "Therapeutic advances in vaccines and immunotherapy",
+    "pub_date": "2026",
+    "extraction": {
+      "relevance_score": 4,
+      "is_survivor_focused": "NO",
+      "survival_factors": "post-exposure prophylaxis (PEP), effective biological products",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "post-exposure prophylaxis (PEP)",
+      "critical_gaps": "Details on PEP implementation, effectiveness, and challenges",
+      "key_findings": "India's rabies PEP programme has strengths and weaknesses, and addressing these is crucial for rabies control",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 1149
+  },
+  {
+    "pubmed_id": "41462130",
+    "title": "Global burden and cross-country inequalities in rabies from 1990 to 2021: a systemic analysis of the global burden of disease study 2021.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41462130/",
+    "journal": "BMC infectious diseases",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 3,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Vaccine-preventable",
+      "critical_gaps": "Lack of information on survivor cases, survival mechanisms, and specific factors contributing to survival",
+      "key_findings": "Rabies is a nearly 100% fatal disease",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 772
+  },
+  {
+    "pubmed_id": "41449342",
+    "title": "Trends in the global and Chinese burden of rabies from 1990 to 2021 and forecasted to 2040: evidence from the Global Burden of Disease study 2021.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41449342/",
+    "journal": "BMC infectious diseases",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 3,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "Lack of information on survivor cases, survival mechanisms, and specific factors contributing to survival",
+      "key_findings": "Global rabies burden and trends from 1990 to 2021",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 775
+  },
+  {
+    "pubmed_id": "41441663",
+    "title": "A Rabies Virus Nucleocapsid-like Nanostructure Vaccine Based on Dual-Cationic Lipid Nanoparticles.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41441663/",
+    "journal": "Vaccines",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Vaccine based on dual-cationic lipid nanoparticles",
+      "critical_gaps": "All information, as the abstract is empty",
+      "key_findings": "Not mentioned",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 703
+  },
+  {
+    "pubmed_id": "41433073",
+    "title": "A SynB1-conjugated antibody cocktail crosses the blood-brain barrier to produce a therapeutic effect on rabies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41433073/",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "NO",
+      "survival_factors": "therapeutic effect, blood-brain barrier crossing",
+      "immunological_insights": "antibody cocktail",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "SynB1-conjugated antibody cocktail",
+      "critical_gaps": "mechanism of therapeutic effect, efficacy in humans",
+      "key_findings": "SynB1-conjugated antibody cocktail crosses the blood-brain barrier to produce a therapeutic effect on rabies",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 740
+  },
+  {
+    "pubmed_id": "41427804",
+    "title": "Dendritic Mesoporous UiO-66 as Nanoreactors for Dual-Mode Detection of the Rabies Virus Nucleoprotein Gene.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41427804/",
+    "journal": "Analytical chemistry",
+    "pub_date": "2026",
+    "extraction": {
+      "relevance_score": 2,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "The paper's focus is on detection of the rabies virus, not on survival factors or treatment",
+      "key_findings": "Development of a dual-mode electrochemiluminescence and fluorescence biosensor for detecting the RABV nucleoprotein gene",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 946
+  },
+  {
+    "pubmed_id": "41273636",
+    "title": "Properties and Application of Pseudotyped Lentiviral Vectors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41273636/",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "pub_date": "2026",
+    "extraction": {
+      "relevance_score": 4,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Gene therapy for neurological and neurodegenerative diseases",
+      "critical_gaps": "Mechanisms of rabies virus glycoprotein, application of LV vectors in rabies treatment",
+      "key_findings": "Pseudotyping with rabies virus glycoprotein increases efficiency of retrograde gene delivery into neuronal cells",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 971
+  },
+  {
+    "pubmed_id": "41254454",
+    "title": "Animal-Related Research in the Arctic With a Focus on Animal Health and Zoonotic Disease: A Scoping Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41254454/",
+    "journal": "Zoonoses and public health",
+    "pub_date": "2026",
+    "extraction": {
+      "relevance_score": 3,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "Lack of information on disease prevention and intervention, as well as limited consideration of Indigenous Knowledges",
+      "key_findings": "Rabies or exposure to rabies was the most common zoonotic virus studied in both animals and humans",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 1109
+  },
+  {
+    "pubmed_id": "41194997",
+    "title": "From data to action: addressing geographic inequalities in rabies burden through targeted policies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41194997/",
+    "journal": "Frontiers in public health",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 2,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "The extent of geographic, socioeconomic, and age-related disparities in rabies burden",
+      "key_findings": "Rabies disproportionately affects low- and middle-income settings",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 751
+  },
+  {
+    "pubmed_id": "41157625",
+    "title": "Overexpression of GitrL in Recombinant Rabies Virus rLBNSE-GitrL Enhances Innate Immunity by Activating Dendritic Cells and Innate Immune-Related Pathways and Genes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41157625/",
+    "journal": "Viruses",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 6,
+      "is_survivor_focused": "NO",
+      "survival_factors": "immunogenic, protective, and safe vaccines, innate immunity, dendritic cells, immune-related pathways and genes",
+      "immunological_insights": "activation of dendritic cells, innate immune-related signaling pathways (TNF, chemokine), upregulation of innate immune-related genes (MMP2, IL-6, CXCL9, TIMP1, IL-17d, TNF-\u03b1)",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "vaccination, recombinant rabies virus (rRABV) overexpressing GitrL",
+      "critical_gaps": "mechanisms of how rLBNSE-GitrL enhances innate immunity, details on the protective effect in mice",
+      "key_findings": "rLBNSE-GitrL elicited significantly higher levels of RABV vaccine-induced virus-neutralizing antibodies (VNA), IgG, and IgM",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1192
+  },
+  {
+    "pubmed_id": "41105717",
+    "title": "Disparities in Global Rabies Burden from GBD 2021: Children, older adults, and low-SDI countries at continued risk.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41105717/",
+    "journal": "PLoS neglected tropical diseases",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 3,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Access to post-exposure prophylaxis, timely diagnosis, dog vaccination programs",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Post-exposure prophylaxis, vaccines",
+      "critical_gaps": "Specific details on survival rates, mechanisms, and factors contributing to survival",
+      "key_findings": "Rabies continues to cause substantial mortality despite available vaccines and post-exposure prophylaxis",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 827
+  },
+  {
+    "pubmed_id": "41098344",
+    "title": "Metagenomic Next-Generation Sequencing Unmasks Atypical Rabies - Guangxi Zhuang Autonomous Region, China, 2024.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41098344/",
+    "journal": "China CDC weekly",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "postexposure prophylaxis (PEP)",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "postexposure prophylaxis (PEP)",
+      "critical_gaps": "Diagnosis and treatment details, survival rates",
+      "key_findings": "Delayed diagnosis and lack of PEP contribute to mortality",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 768
+  },
+  {
+    "pubmed_id": "41059854",
+    "title": "Nanobodies as antivirals against rabies in experimentally infected mice.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41059854/",
+    "journal": "Revista do Instituto de Medicina Tropical de Sao Paulo",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "treatment, viral load",
+      "immunological_insights": "use of anti-RABV recombinant monoclonal nanobodies",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "nanobody therapy, potential combination with other antivirals",
+      "critical_gaps": "effectiveness of nanobody therapy in improving survival",
+      "key_findings": "one of the VHHs was able to reduce the viral load in mice",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 958
+  },
+  {
+    "pubmed_id": "41042955",
+    "title": "Rabies immunoglobulin overdose in post-exposure prophylaxis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41042955/",
+    "journal": "Przeglad epidemiologiczny",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "post-exposure prophylaxis, extent of exposure, previous vaccination history",
+      "immunological_insights": "immune response, human rabies immunoglobulin (HRIG)",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "post-exposure prophylaxis (PEP), human rabies immunoglobulin (HRIG)",
+      "critical_gaps": "details on the patient's outcome, long-term effects of HRIG overdose",
+      "key_findings": "excessive dose of HRIG did not result in adverse effects or suppression of immune response",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 970
+  },
+  {
+    "pubmed_id": "41031499",
+    "title": "Evaluating the Protective Immunity of 5'-Cap Altered Rabies mRNA Vaccines in a Mouse Model.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41031499/",
+    "journal": "Current pharmaceutical biotechnology",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "immunity",
+      "immunological_insights": "protective immunity of 5'-Cap altered rabies mRNA vaccines",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "oral rabies vaccine",
+      "critical_gaps": "effectiveness of the vaccine in humans, survival rates",
+      "key_findings": "development of an effective oral rabies vaccine",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 792
+  },
+  {
+    "pubmed_id": "41016349",
+    "title": "Inflammation-targeted nanoplatform: NIR-II imaging-guided encephalitis suppressing by dual antioxidant-ferroptosis action.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41016349/",
+    "journal": "Biomaterials",
+    "pub_date": "2026",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not explicitly mentioned, but potentially related to mitigation of ferroptosis and reactive oxygen species (ROS)-mediated neurotoxicity",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Inflammation-targeted nanoplatform, dual antioxidant-ferroptosis action",
+      "critical_gaps": "Mechanisms of encephalitis suppression, specifics of the CeO2 nanoplatform",
+      "key_findings": "Development of a nanoplatform for encephalitis suppression",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 852
+  },
+  {
+    "pubmed_id": "41004516",
+    "title": "Drivers of rabies virus spillover risk from vampire bats to livestock in Colombia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41004516/",
+    "journal": "PLoS neglected tropical diseases",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 2,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "Landscape level factors that facilitate or limit RABV transmission",
+      "key_findings": "Vampire bat-borne rabies virus has significant negative impacts on the livestock industry",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 775
+  },
+  {
+    "pubmed_id": "40831688",
+    "title": "The Burden of Neglected Tropical Diseases in Rwanda: A Scoping Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40831688/",
+    "journal": "Health science reports",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 1,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "The abstract does not provide information on rabies or survival factors",
+      "key_findings": "The paper discusses the burden of neglected tropical diseases in Rwanda",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 746
+  },
+  {
+    "pubmed_id": "40767697",
+    "title": "Two Decades of Human Rabies in Brazil: Epidemiological Trends, Emerging Risks and Treatment Challenges.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40767697/",
+    "journal": "Revista da Sociedade Brasileira de Medicina Tropical",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 3,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "National vaccination programs",
+      "critical_gaps": "Details on treatment challenges and emerging risks",
+      "key_findings": "Canine transmission of rabies has been controlled through national vaccination programs",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 750
+  },
+  {
+    "pubmed_id": "40622136",
+    "title": "Development of blood-brain barrier-penetrating antibodies for neutralizing tick-borne encephalitis virus in the brain.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40622136/",
+    "journal": "mSphere",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 1,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Neutralizing antibodies",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Blood-brain barrier-penetrating antibodies",
+      "critical_gaps": "Mechanisms of tick-borne encephalitis virus neutralization, application to rabies",
+      "key_findings": "Development of blood-brain barrier-penetrating antibodies for neutralizing tick-borne encephalitis virus",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 751
+  },
+  {
+    "pubmed_id": "40589823",
+    "title": "One health surveillance: linking human and animal rabies surveillance data in Kenya.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40589823/",
+    "journal": "Frontiers in public health",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 3,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "Lack of information on survivor cases, survival mechanisms, and specific factors contributing to survival",
+      "key_findings": "The importance of surveillance in the Kenya rabies elimination program",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 771
+  },
+  {
+    "pubmed_id": "40533371",
+    "title": "Management of Wild, Noncanine Mammalian Attacks Complicated by Bacterial Infection: A Case Report and Systematic Literature Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40533371/",
+    "journal": "The Journal of emergency medicine",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 2,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Treatment and rehabilitation for wild animal-related injuries",
+      "critical_gaps": "Specific details on rabies survival factors, immune mechanisms, and treatment approaches for rabies",
+      "key_findings": "Wild animal-related injuries can lead to polymicrobial infections and treatment complications",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 798
+  },
+  {
+    "pubmed_id": "40531916",
+    "title": "Exploring one health-based strategies for rabies elimination: Overview and future prospects.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40531916/",
+    "journal": "PLoS neglected tropical diseases",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 2,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "Lack of information on survivor cases, survival mechanisms, and specific strategies for rabies elimination",
+      "key_findings": "None related to survivors",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 780
+  },
+  {
+    "pubmed_id": "41176764",
+    "title": "Mpox-specific cellular and humoral immunity in mpox survivors living with HIV.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41176764/",
+    "journal": "Cell reports",
+    "pub_date": "2025",
+    "extraction": {
+      "relevance_score": 1,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "CD4 and CD8 T cells, IFN\u03b3, TNF\u03b1, IL-2, cytolytic potential, MPXV-specific antibodies with neutralizing activity",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Vaccinia or JYNNEOS vaccination",
+      "critical_gaps": "The paper does not discuss rabies or its survival factors at all",
+      "key_findings": "Mpox survivors with HIV develop functional cellular and humoral immunity to MPXV",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 1003
+  },
+  {
+    "pubmed_id": "32174514",
+    "title": "Magnitude and diversity of immune response to vaccinia virus is dependent on route of administration.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32174514/",
+    "journal": "Virology",
+    "pub_date": "2020",
+    "extraction": {
+      "relevance_score": 2,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Humoral immune responses, adaptive immunity, cytokine responses",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Vaccination using vaccinia virus (VACV) strains",
+      "critical_gaps": "Mechanisms of long-term protective immunity, comparison to rabies",
+      "key_findings": "Systemic immunization through an intranasal route leads to enhanced adaptive immunity",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 1035
+  },
+  {
+    "pubmed_id": "31237530",
+    "title": "Trying to treat the untreatable: experimental approaches to clear rabies virus infection from the CNS.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31237530/",
+    "journal": "The Journal of general virology",
+    "pub_date": "2019",
+    "extraction": {
+      "relevance_score": 7,
+      "is_survivor_focused": "NO",
+      "survival_factors": "treatment, antiviral drugs, molecule delivery",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "experimental live rabies virus vaccines, antiviral drugs, attenuation of rabies virus vectors",
+      "critical_gaps": "details on experimental approaches, treatment outcomes",
+      "key_findings": "efforts to overcome barriers to molecule delivery to treat clinical rabies",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 912
+  },
+  {
+    "pubmed_id": "29594957",
+    "title": "Exhaustive Exercise Does Not Affect Humoral Immunity and Protection after Rabies Vaccination in a Mouse Model.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29594957/",
+    "journal": "Virologica Sinica",
+    "pub_date": "2018",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "immunization, vaccine response",
+      "immunological_insights": "humoral immunity, virus-neutralizing antibody (VNA) titers, antibody subtypes",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "inactivated rabies vaccine",
+      "critical_gaps": "effect of exhaustive exercise on long-term vaccine efficacy, mechanisms behind vaccine protection",
+      "key_findings": "exhaustive exercise does not reduce the effects of the rabies inactivated vaccine",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 898
+  },
+  {
+    "pubmed_id": "29471052",
+    "title": "Revisiting rabies virus neutralizing antibodies through infecting BALB/c mice with live rabies virus.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29471052/",
+    "journal": "Virus research",
+    "pub_date": "2018",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "NO",
+      "survival_factors": "age of animals, induction of virus neutralizing antibodies (VNA), early release of viral antigens from damaged nerve tissue",
+      "immunological_insights": "production of rabies virus neutralizing antibody, role of VNA in infection progression",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "None, as the study did not involve pre-exposure or post-exposure prophylaxis (PEP)",
+      "critical_gaps": "mechanism of VNA not crossing the blood-brain barrier, specifics of how early release of viral antigens benefits survivors",
+      "key_findings": "All animals that succumbed to rabies challenge developed circulating neutralizing antibodies, while healthy animals did not",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1058
+  },
+  {
+    "pubmed_id": "26305826",
+    "title": "Unique clinical and imaging findings in a first ever documented PCR positive rabies survival patient: A case report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26305826/",
+    "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+    "pub_date": "2015",
+    "extraction": {
+      "relevance_score": 9,
+      "is_survivor_focused": "YES",
+      "survival_factors": "Not specified in the abstract",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "Details about the survival case, clinical and imaging findings",
+      "key_findings": "A first ever documented PCR positive rabies survival patient",
+      "priority_level": "HIGH",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 740
+  },
+  {
+    "pubmed_id": "25405805",
+    "title": "Virology, immunology and pathology of human rabies during treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25405805/",
+    "journal": "The Pediatric infectious disease journal",
+    "pub_date": "2015",
+    "extraction": {
+      "relevance_score": 9,
+      "is_survivor_focused": "YES",
+      "survival_factors": "immunological and virological correlates",
+      "immunological_insights": "immune mechanisms of early recovery",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not specified",
+      "critical_gaps": "details on histopathology and immune/virological correlates",
+      "key_findings": "a second unvaccinated patient showed early recovery from rabies",
+      "priority_level": "HIGH",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 799
+  },
+  {
+    "pubmed_id": "23602163",
+    "title": "Human rabies: neuropathogenesis, diagnosis, and management.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23602163/",
+    "journal": "The Lancet. Neurology",
+    "pub_date": "2013",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "promptness of host immune response, spontaneous (immune) virus clearance, viral mechanisms, bat rabies virus variants",
+      "immunological_insights": "host immune response, immune virus clearance",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "neuropathogenetic mechanisms, how the virus produces its devastating effects",
+      "key_findings": "Recovery has been reported in only a few patients, most of whom were infected with bat rabies virus variants",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 963
+  },
+  {
+    "pubmed_id": "22004032",
+    "title": "Treatment of rabies in the 21st century: curing the incurable?",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22004032/",
+    "journal": "Future microbiology",
+    "pub_date": "2011",
+    "extraction": {
+      "relevance_score": 7,
+      "is_survivor_focused": "NO",
+      "survival_factors": "animal population management, vaccination of major reservoirs and vectors, minimization of the risk of viral exposures, and appropriate and early postexposure prophylaxis",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "development of new efficacious antiviral compounds and optimized treatment protocols",
+      "critical_gaps": "details on existing approaches, development of new efficacious antiviral compounds and optimized treatment protocols",
+      "key_findings": "reports of survivors provide a faint glimpse of a possibility of overcoming this deadly disease, even after clinical symptoms manifest",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 863
+  },
+  {
+    "pubmed_id": "21270007",
+    "title": "Immunogenicity and efficacy of two rabies vaccines in wild-caught, captive raccoons.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21270007/",
+    "journal": "Journal of wildlife diseases",
+    "pub_date": "2011",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "NO",
+      "survival_factors": "immunological response, treatment type",
+      "immunological_insights": "humoral immune response, presence of rabies virus antibody (RVA)",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "recombinant vaccinia virus-rabies glycoprotein (VRG) oral rabies vaccine, intramuscular (IM) injection of IMRAB 3 rabies vaccine",
+      "critical_gaps": "details on the mechanism of immune response, comparison of vaccine efficacy in different species",
+      "key_findings": "all 15 raccoons that demonstrated a serologic response survived challenge regardless of treatment",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1151
+  },
+  {
+    "pubmed_id": "20186117",
+    "title": "Presumptive abortive human rabies - Texas, 2009.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20186117/",
+    "journal": "MMWR. Morbidity and mortality weekly report",
+    "pub_date": "2010",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "rabies vaccinations, intensive care, detection of rabies virus-neutralizing antibodies (VNA)",
+      "immunological_insights": "detection of rabies virus-neutralizing antibodies (VNA), presence of antibodies to rabies virus",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "rabies vaccinations, human rabies immune globulin (HRIG)",
+      "critical_gaps": "details on the patient's clinical course, laboratory findings, and the definition of abortive human rabies",
+      "key_findings": "a patient survived abortive human rabies without intensive care after receiving rabies vaccine and HRIG",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1079
+  },
+  {
+    "pubmed_id": "18634495",
+    "title": "Experimental infection of big brown bats (Eptesicus fuscus) with West Caucasian bat virus (WCBV).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18634495/",
+    "journal": "Developments in biologicals",
+    "pub_date": "2008",
+    "extraction": {
+      "relevance_score": 7,
+      "is_survivor_focused": "NO",
+      "survival_factors": "viral strain, inoculation method, presence of neutralizing antibodies",
+      "immunological_insights": "WCBV-neutralizing antibodies detected in surviving bats, IRKV-neutralizing antibodies detected in bats previously infected with IRKV",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "None discussed",
+      "critical_gaps": "Mechanisms of survival, duration of immunity, and potential for carrier state",
+      "key_findings": "Surviving bats developed WCBV-neutralizing antibodies, while rabid bats did not",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1030
+  },
+  {
+    "pubmed_id": "18215393",
+    "title": "Intradermal DNA vaccination in ear pinnae is an efficient route to protect cats against rabies virus.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18215393/",
+    "journal": "Veterinary research",
+    "pub_date": "2008",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "immunological, treatment, vaccination route",
+      "immunological_insights": "neutralizing antibody titers, seroconversion",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "DNA vaccination, intradermal, intramuscular, intranasal administration",
+      "critical_gaps": "effectiveness of different vaccination routes in humans, long-term survival data",
+      "key_findings": "Intradermal DNA vaccination in ear pinnae (ID-EP) is an efficient route to protect cats against rabies virus",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1229
+  },
+  {
+    "pubmed_id": "15958812",
+    "title": "Recovery from rabies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15958812/",
+    "journal": "The New England journal of medicine",
+    "pub_date": "2005",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "The abstract is not available, making it impossible to determine the content of the paper",
+      "key_findings": "Not mentioned",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 684
+  },
+  {
+    "pubmed_id": "12465817",
+    "title": "Pathogenesis studies with Australian bat lyssavirus in grey-headed flying foxes (Pteropus poliocephalus).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12465817/",
+    "journal": "Australian veterinary journal",
+    "pub_date": "2002",
+    "extraction": {
+      "relevance_score": 3,
+      "is_survivor_focused": "NO",
+      "survival_factors": "Not mentioned",
+      "immunological_insights": "Not mentioned",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "Pathogenesis and disease progression in flying foxes",
+      "key_findings": "Susceptibility of grey-headed flying fox to Australian bat lyssavirus",
+      "priority_level": "LOW",
+      "recommend_full_paper": "NO"
+    },
+    "tokens_used": 750
+  },
+  {
+    "pubmed_id": "9361901",
+    "title": "Pathogenesis of experimentally induced rabies in domestic ferrets.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9361901/",
+    "journal": "American journal of veterinary research",
+    "pub_date": "1997",
+    "extraction": {
+      "relevance_score": 5,
+      "is_survivor_focused": "NO",
+      "survival_factors": "incubation and morbidity periods, serologic response, excretion of virus",
+      "immunological_insights": "serologic response",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "specific details on susceptibility, clinical signs, and virus excretion",
+      "key_findings": "determination of susceptibility, incubation and morbidity periods in domestic ferrets",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 748
+  },
+  {
+    "pubmed_id": "3587068",
+    "title": "In vivo studies of pathogenic, immunogenic and protective properties of Roma strain rabies virus recovered from a persistently infected BHK21 cell line.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/3587068/",
+    "journal": "Microbiologica",
+    "pub_date": "1987",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "NO",
+      "survival_factors": "viral strain, dose of virus, immunogenic properties",
+      "immunological_insights": "presence of rabies virus neutralizing antibodies",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "detailed mechanisms of how the adapted virus strain affects pathogenicity and immunogenicity",
+      "key_findings": "animals having survived the highest viral doses had the highest antibody titers and resisted a challenge with the standard challenge virus",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 958
+  },
+  {
+    "pubmed_id": "6822785",
+    "title": "Genetic control of resistance to street rabies virus in mice.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/6822785/",
+    "journal": "The Journal of experimental medicine",
+    "pub_date": "1983",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "genetic, viral strain, sex (female mice more resistant than male)",
+      "immunological_insights": "Not explicitly mentioned, but implied through discussion of resistance",
+      "genetic_factors": "Major histocompatibility locus, H-2S haplotype, one and/or two genes controlling susceptibility",
+      "treatment_approaches": "Not mentioned",
+      "critical_gaps": "Mechanisms of genetic control, specific genes involved, and how intracerebral inoculation abrogates genetic control",
+      "key_findings": "Resistance to street rabies virus is under genetic control, with some mouse strains showing dominant resistance",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1075
+  },
+  {
+    "pubmed_id": "6811488",
+    "title": "Immunostimulation by vitamin C.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/6811488/",
+    "journal": "International journal for vitamin and nutrition research. Supplement = Internationale Zeitschrift fur Vitamin- und Ernahrungsforschung. Supplement",
+    "pub_date": "1982",
+    "extraction": {
+      "relevance_score": 7,
+      "is_survivor_focused": "NO",
+      "survival_factors": "immunization, vitamin C",
+      "immunological_insights": "vitamin C increases chemotaxis of granulocytes and macrophages, phagocytic activity, and induction of delayed hypersensitivity",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "vitamin C supplementation, human diploid cell culture rabies vaccine",
+      "critical_gaps": "effect of vitamin C on antibody production, detailed survival data",
+      "key_findings": "low doses of vitamin C (10 mg/kg) enhance immunization efficiency with rabies vaccine",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1056
+  },
+  {
+    "pubmed_id": "4758383",
+    "title": "The relationship between immunity and the pathology of the CNS of mice infected with the CVS strain of rabies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/4758383/",
+    "journal": "British journal of experimental pathology",
+    "pub_date": "1973",
+    "extraction": {
+      "relevance_score": 8,
+      "is_survivor_focused": "YES",
+      "survival_factors": "dose of immunization, route of inoculation, time interval between immunization and challenge, viral strain",
+      "immunological_insights": "neutralizing antibodies in serum and brain, astrocytic reaction",
+      "genetic_factors": "Not mentioned",
+      "treatment_approaches": "inactivated vaccine, live virus immunization",
+      "critical_gaps": "specific details on the duration of immunity, exact mechanisms of astrocytic reaction",
+      "key_findings": "mice that survived the clinical disease had lesions in the brain that tended to become subacute, leading to focal partial or complete sclerosis",
+      "priority_level": "MEDIUM",
+      "recommend_full_paper": "YES"
+    },
+    "tokens_used": 1238
+  }
+]
