@@ -435,6 +435,8 @@ with tab5:
         4. **Antibody Titers**: Exact neutralizing antibody levels
         5. **Viral Load Progression**: Replication kinetics in survivors
         6. **Genetic Sequencing**: Interferon pathway variants
+        7. **Treatment Timing**: Long-term neurological outcomes and sequelae
+        8. **Antibody Production Time**: Time-to-antibody-production in survivors vs. fatal cases 
         """)
     
     st.markdown("---")
